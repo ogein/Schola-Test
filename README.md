@@ -9,4 +9,4 @@ For this test repo, you are required to complete this little exercise to show pr
  - TO-DO List Page/Tab
  - Completed List Page/Tab
  - Add New TO-DO (Button)
-  - New TO-DO Item Fill
+  - New TO-DO Item Form Fill
